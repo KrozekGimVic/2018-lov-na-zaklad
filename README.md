@@ -13,4 +13,4 @@ tolikokrat, kot je rezultat __5.__
 __Pozor!__ Datoteka bo velika skoraj `2GB`, zato se prepričaj, da imaš na računalniku dovolj prostora.
 8. Najdi številko vrstice datoteke iz __7.__ v kateri se prvič pojavi število v katerem je devet zaporednih ničel.
 9. Najdi najmanjše število v datoteki iz __7.__
-10. Najdi največji skupni večkratnik števil iz nalog __8.__ in __9.__
+10. Najdi največji skupni delitelj števil iz nalog __8.__ in __9.__
