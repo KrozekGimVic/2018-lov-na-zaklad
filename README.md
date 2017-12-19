@@ -1,7 +1,7 @@
 # Lov na zaklad
 Božični lov na zaklad v šolskem letu 2017/2018
 
-1. Najdi vsa [popolna števila](http://www.educa.fmf.uni-lj.si/izodel/sola/2001/ura/zeman/pitag.htm) do 4.000.000
+1. Najdi vsa [popolna števila](http://www.educa.fmf.uni-lj.si/izodel/sola/2001/ura/zeman/pitag.htm) do 40.000.000
 2. Seštej vsa števila iz __1.__
 3. Najdi rezultat [tega programa](https://raw.githubusercontent.com/KrozekGimVic/2018-lov-na-zaklad/master/program.py), ko mu vneseš reultat iz __2.__
 4. Seštej kube števk števila iz __3.__ in to ponavljaj, dokler ne dobiš števila manjšega od 1000.
