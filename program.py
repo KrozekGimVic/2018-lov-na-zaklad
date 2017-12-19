@@ -1,6 +1,5 @@
 
-# n = int(input())
-n = 33558994
+n = int(input())
 rezultat = 0
 for i in range(n**2):
     if i % 2 == 0:
