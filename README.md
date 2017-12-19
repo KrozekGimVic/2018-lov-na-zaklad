@@ -9,9 +9,7 @@ Božični lov na zaklad v šolskem letu 2017/2018
 6. Začni z drugim popolnim številom in na njem izvedi [poglej in povej](https://sl.wikipedia.org/wiki/Conwayjevo_zaporedje)
 tolikokrat, kot je rezultat __5.__
 7. Prenesi [generator](https://raw.githubusercontent.com/KrozekGimVic/2018-lov-na-zaklad/master/generator.py). Zaženi program in vanj vnesi rezultat iz __6.__ ter si izhod shrani v datoteko `stevila.txt`. To storis tako, da v ukazni vrstici zaženeš
-```
-python3 generator.py > stevila.txt
-```
+`python3 generator.py > stevila.txt`
 __Pozor!__ Datoteka bo velika skoraj `2GB`, zato se prepričaj, da imaš na računalniku dovolj prostora.
 8. Najdi številko vrstice datoteke iz __7.__ v kateri se prvič pojavi število v katerem je devet zaporednih ničel.
 9. Najdi najmanjše število v datoteki iz __7.__
