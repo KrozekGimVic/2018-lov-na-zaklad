@@ -3,7 +3,7 @@ Božični lov na zaklad v šolskem letu 2017/2018
 
 1. Najdi vsa [popolna števila](http://www.educa.fmf.uni-lj.si/izodel/sola/2001/ura/zeman/pitag.htm) do 40.000.000
 2. Seštej vsa števila iz __1.__
-3. Najdi rezultat [tega programa](https://raw.githubusercontent.com/KrozekGimVic/2018-lov-na-zaklad/master/program.py), ko mu vneseš reultat iz __2.__
+3. Najdi rezultat [tega programa](https://raw.githubusercontent.com/KrozekGimVic/2018-lov-na-zaklad/master/program.py), ko mu vneseš rezultat iz __2.__
 4. Seštej kube števk števila iz __3.__ in to ponavljaj, dokler ne dobiš števila sestavljenega iz samih ničel in enic.
 5. Pretvori število iz __4.__ iz binarnega v decimalni zapis.
 6. Začni z drugim popolnim številom in na njem izvedi [poglej in povej](https://sl.wikipedia.org/wiki/Conwayjevo_zaporedje)
