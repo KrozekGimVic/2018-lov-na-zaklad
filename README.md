@@ -16,9 +16,9 @@ pip3 install requests
 
 3. Recimo, da pisatelj zgornje knjige obupava vsakič, ko napiše tri pike. Kako obupan je?
 
-4. Pojdi na https://blooming-dawn-<A1>.herokuapp.com , kjer <A1> zamenjaj z odgovorom na prvo vprasanje. Stran te bo vodila do resitve.
+4. Pojdi na https://blooming-dawn-A1.herokuapp.com , kjer A1 zamenjaj z odgovorom na prvo vprasanje. Stran te bo vodila do resitve.
 
-5. Na zgornji spletni strani resi enašbo, ki se nahaja na URLju /5/<A4>, kjer <A4> zamenjaj z odgovorom na 4. vprašanje.
+5. Na zgornji spletni strani resi enašbo, ki se nahaja na URLju /5/A4, kjer A4 zamenjaj z odgovorom na 4. vprašanje.
 
 6. Najdi največje število, ki ima v binarnem zapisu enako enk in enako dolžino kot odgovor na peto vprašanje.
 
