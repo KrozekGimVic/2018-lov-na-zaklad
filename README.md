@@ -9,16 +9,16 @@ TODO
 
 1. Maks in Jure si želita izmenjati skrivni ključ. Dogovorita se za modulo `350443` in `g = 2`. Maks
    pošlje Juretu `201455`, Jure pa Maksu `58484`. Kaj je njun skupni skrivni ključ?
-2. Koliko pikslov na sliki `image.png` ima modro komponento večjo od 1. (če gledamo 1. po modulu
+2. Koliko pikslov na sliki `image.png` ima modro komponento večjo od __1.__ (če gledamo __1.__ po modulu
    256)? Rezultat te točke dobiš, če is števila pikslov pobrišeš vse števke razen prve in zadnje.
 3. Iz slike naredimo graf, tako da rečemo da sta dva piksla, ki si delita stranico, povezana, če se
    vsaj v eni izmed RGB komponent ne razlikujeta več kot za neko število `d`. Pri katerem `d`
-   razpade slika na 2. kosov?
-4. Popravi program `hackme.cpp`, da se prevede.  očitno
-5. Najdi geslo, ki odklene skrivnosti v programu. Seme je rezultat 3. Geslo je sestavljeno iz štirih
+   razpade slika na __2.__ kosov?
+4. Popravi program `hackme.cpp`, da se prevede.
+5. Najdi geslo, ki odklene skrivnosti v programu. Seme je __3.__. Geslo je sestavljeno iz štirih
    malih črk angleške abecede.
 6. Pošlji post request na https://blooming-dawn-63327.herokuapp.com/naloga s ključem `result` in
-   vrednostjo 5.. Obišči youtube video s ključem, ki ga dobiš za odgovor. Povej koliko sekund traja.
+   vrednostjo __5.__. Obišči youtube video s ključem, ki ga dobiš za odgovor. Povej koliko sekund traja.
 
 
 ## Božični lov na zaklad v šolskem letu 2017/2018
