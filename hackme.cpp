@@ -13,7 +13,7 @@ class Hasher {
 }
 
 bool test(const Hasher& h, const string& s) {
-    return h.hash(s) == 69;
+    return h.hash(s) == 120;
 }
 
 int main() {

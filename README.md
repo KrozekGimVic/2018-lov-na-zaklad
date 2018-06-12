@@ -10,7 +10,7 @@ pip3 install requests
 ```
 
 
-1. Najdi najmanjše število, ki je deljivo z 21109, 5757, 3333, 627
+1. Najdi najmanjše število, ki je deljivo z 21109, 5757, 3333, 627.
 
 2. Vsi znaki v [knjiga.txt](https://raw.githubusercontent.com/KrozekGimVic/2018-lov-na-zaklad/master/knjiga.txt) so zamaknjeni za konstantno število znakov. Najdi to število in odkodiraj knjigo.
 
@@ -23,21 +23,22 @@ pip3 install requests
 6. Najdi največje število, ki ima v binarnem zapisu enako enk in enako dolžino kot odgovor na peto vprašanje.
 
 
-### Samo za starejše
+### Samo za starejše (B del)
 
 1. Maks in Jure si želita izmenjati skrivni ključ. Dogovorita se za modulo `M`
    in `g = 2`. Maks pošlje Juretu `X`, Jure pa Maksu `Y`. Kaj je njun skupni
    skrivni ključ? `M`, `X` in `Y` lahko dobis na URLju `/7/<A6>`.
-2. Koliko pikslov na sliki `image.png` ima modro komponento večjo od __1.__ (če gledamo __1.__ po modulu
+2. Koliko pikslov na sliki `image.png` ima modro komponento večjo od B1 (če gledamo B1 po modulu
    256)? Rezultat te točke dobiš, če is števila pikslov pobrišeš vse števke razen prve in zadnje.
 3. Iz slike naredimo graf, tako da rečemo da sta dva piksla, ki si delita stranico, povezana, če se
    vsaj v eni izmed RGB komponent ne razlikujeta več kot za neko število `d`. Pri katerem `d`
-   razpade slika na __2.__ kosov?
+   razpade slika na B2 kosov?
 4. Popravi program `hackme.cpp`, da se prevede.
-5. Najdi geslo, ki odklene skrivnosti v programu. Seme je __3.__. Geslo je sestavljeno iz štirih
-   malih črk angleške abecede.
-6. Pošlji post request na https://blooming-dawn-<A1>.herokuapp.com/naloga s ključem `result` in
-   vrednostjo __5.__. Obišči youtube video s ključem, ki ga dobiš za odgovor. Povej koliko sekund traja.
+5. Najdi geslo, ki odklene skrivnosti v programu. Seme je B3. Geslo je sestavljeno iz štirih
+   malih črk angleške abecede. Izmed moćnih gesel izberi tistega, ki je 3568-ti po vrsti (pri čemer
+vsa gesla razvrstimo po abecedi).
+6. Pošlji post request na https://blooming-dawn-A1.herokuapp.com/naloga s ključem `result` in
+   vrednostjo B5. Obišči youtube video s ključem, ki ga dobiš za odgovor. Povej koliko sekund traja.
 
 
 ## Božični lov na zaklad v šolskem letu 2017/2018
